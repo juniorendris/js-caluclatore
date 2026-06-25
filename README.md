@@ -3,7 +3,7 @@
 A clean, responsive, and interactive calculator built with HTML5, CSS3, and JavaScript.
 
 ## 🚀 Live View
-[**Click here to use the Calculator**]([https://your-live-link-here.com](https://juniorendris.github.io/js-caluclatore/))
+[**Click here to use the Calculator**](https://juniorendris.github.io/js-caluclatore/)
 
 ## Features
 - **Live Display**: Real-time feedback as you type and perform calculations.
