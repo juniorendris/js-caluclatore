@@ -17,4 +17,4 @@ A clean, responsive, and interactive calculator built with HTML5, CSS3, and Java
 - **CSS3**: Advanced styling with Flexbox, transitions, and modern color palettes.
 - **JavaScript**: Clean logic for real-time input handling and math evaluation.
 ---
-*Built with passion by [Your Name/Handle]*
+*Built with passion by [Junior]*
